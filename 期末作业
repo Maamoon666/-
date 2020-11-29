@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>陈善聪的期末考试</title>
+    <style type="text/css">
+        body {
+            background-color: blueviolet;
+            }
+        h1{
+            background: red;padding: 20px;
+            text-align: center;
+        }
+        h2{
+            background-color: seagreen;padding: 20px;
+        }
+        p{
+            background:rgb(250, 0,255);
+        }
+        p.no1 {
+            background-color: gray; padding: 20px;
+            }
+         span.highlight
+         {
+         background-color:yellow
+         }
+    </style>
+</head>
+<body background="bg1.JPG">      
+</body>
+<body>
+    <marquee>201916180125唐延波</marquee></a><p></p>
+    <ul>
+        <p></p>
+    </ul>   
+    <ul>
+        <p></p>
+    </ul>
+    <ul>
+        <p></p>
+    </ul>
+    <ul>
+        <p></p>
+    </ul>
+
+    介绍:<p></p>
+    我是来自通信1901班的陈善聪，学号为201916180126来自广东深圳，是一个活泼开朗的男孩，爱好听歌，唱歌；<p></p>
+    喜欢打篮球，同时也是一个很喜欢认识新朋友的人。加入长理这个大家庭后，我很希望和<p></p>
+    大家加朋友，一起欢乐愉快的度过大学四年<p></p>
+    虽然说我是一名来自广东的孩子，但是对于湖南美食我也是极力认可的<p></p>
+    我最喜欢的美食是长沙的臭豆腐<p></p>
+    <img src="2.jpg" alt=""><p></p>
+    看看图中这色香味具的臭豆腐，能否激发起你内心的食欲呢<p></p>
+
+    <big>下面请点击我的超链接，一起去看看关于长沙臭豆腐</big><p></p>
+    <big>看看这道令大广人士喜欢的佳肴的风采及做法吧</big><p></p>
+
+    <big><a href="我喜欢的美食.html">我喜欢的美食</a><p></p></big>
+    <marquee>201916180127符明超</marquee><p></p>
+
+</body>
+</html>
